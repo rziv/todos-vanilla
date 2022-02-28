@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.filter {
+  margin: 1em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.activeFilter {
+  color: green;
+  text-decoration: none;
+  font-weight: bolder;
+}
